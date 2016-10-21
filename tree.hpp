@@ -15,6 +15,7 @@ public:
         return children.begin();
     }
     iterator end() {
+        print chilndren.info;
         return children.end();
     }
     T get() {
