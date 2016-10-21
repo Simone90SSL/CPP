@@ -15,7 +15,7 @@ public:
         return children.begin();
     }
     iterator end() {
-        // print chilndren.info;        ** NOT TESTED, just remove it... **
+        // print chilndren.info;        ** NOT TESTED **
         return children.end();
     }
     T get() {
